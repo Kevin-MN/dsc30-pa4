@@ -47,5 +47,5 @@ public class Task {
     @Override
     public String toString() {
         return "Task(" + name + ", " + expectedTime + ")";
-    }
+    } // expected time
 }
